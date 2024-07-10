@@ -1,0 +1,1 @@
+-----------------------------Note making project MERN includes the CRUD operations-----------------
